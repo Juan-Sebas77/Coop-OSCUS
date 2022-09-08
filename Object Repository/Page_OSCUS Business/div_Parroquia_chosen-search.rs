@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Parroquia_chosen-search</name>
+   <tag></tag>
+   <elementGuidId>2f34044e-250f-40dd-97dd-3672e0c51962</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbParroquiaReside_chosen']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cbParroquiaReside_chosen > div.chosen-drop > div.chosen-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6209746d-3f84-49c9-b9fb-a2544c31c319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-search</value>
+      <webElementGuid>8f3bd4d8-936f-4acd-a774-6e1b9422ad84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbParroquiaReside_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/div[@class=&quot;chosen-search&quot;]</value>
+      <webElementGuid>f65949b7-d5ed-44de-99ed-6eb75dd5641e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbParroquiaReside_chosen']/div/div</value>
+      <webElementGuid>eabec366-4e91-4d63-b467-90a23dba655e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parroquia...'])[1]/following::div[3]</value>
+      <webElementGuid>8f50a4fd-226a-4366-a943-d539113a3ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parroquia reside:'])[1]/following::div[4]</value>
+      <webElementGuid>c259f4dc-7b59-44d8-a045-67d3ed580b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALANGASI'])[2]/preceding::div[1]</value>
+      <webElementGuid>9faa59d5-11ae-4cb0-945d-6a4e6014668d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMAGUAÑA'])[2]/preceding::div[1]</value>
+      <webElementGuid>dff3803a-c536-4941-8b5b-af9635f68cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/label/div/div/div</value>
+      <webElementGuid>6f105cd5-b2b4-4a02-9b76-333428b320e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_ACTIVIDADES ADMINISTRATIVAS Y DE APOYO D_c035ea</name>
+   <tag></tag>
+   <elementGuidId>bea2f364-3bc6-4aed-b8a3-ceab5e9303c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbGrupoEconomico_chosen > div.chosen-drop > ul.chosen-results > li.active-result</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbGrupoEconomico_chosen']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c3eaa184-b6e5-4633-9d6e-14cf16fe96fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result</value>
+      <webElementGuid>f3a2e188-a47f-4fdd-846d-baeb0f5d4c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f2affb30-3638-45c3-bbb5-e5a3e6b10d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS.                                                                                                          </value>
+      <webElementGuid>1a6aba78-e058-4f9c-b838-498b64eb6072</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbGrupoEconomico_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;active-result&quot;]</value>
+      <webElementGuid>8171c0d8-7018-409e-a5fd-42b6336c95d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbGrupoEconomico_chosen']/div/ul/li</value>
+      <webElementGuid>f605e826-6cee-499f-af25-9ed925ab5871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS.'])[2]/following::li[1]</value>
+      <webElementGuid>35d933ef-50a3-458f-87e6-d109df0a49ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupo económico:'])[1]/following::li[1]</value>
+      <webElementGuid>ac41e1c5-c5d4-40d1-b644-2335b2acd7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS.'])[2]/preceding::li[1]</value>
+      <webElementGuid>00055f39-12a3-4f6d-a542-792ee7c96607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVIDADES CREATIVAS, ARTÍSTICAS Y DE ENTRETENIMIENTO.'])[2]/preceding::li[2]</value>
+      <webElementGuid>7f110052-59d8-43e9-b9cf-beae3912db71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/table/tbody/tr[3]/td/div/label/div/div/ul/li</value>
+      <webElementGuid>59c4b8ed-36b8-4d14-9252-99e5d9191dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS.                                                                                                          ' or . = 'ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS.                                                                                                          ')]</value>
+      <webElementGuid>2a03be7d-5826-4bb6-b131-65db19072de1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

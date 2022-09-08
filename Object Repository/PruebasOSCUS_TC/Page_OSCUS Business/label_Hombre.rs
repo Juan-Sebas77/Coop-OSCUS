@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Hombre</name>
+   <tag></tag>
+   <elementGuidId>6b62340a-a7f8-4c48-9ee0-51e96b4500b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td > label > label.css-label.cb0.radGroup1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='trBloquePasaporte']/td/div/table/tbody/tr[3]/td/label/label[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7cb5fd7b-f2b7-4fd6-bf64-33809c1e2a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>rbSexoHPasaporte</value>
+      <webElementGuid>bed88418-b1b2-4cbc-9182-6ce153317798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-label cb0 radGroup1</value>
+      <webElementGuid>1be3646d-815c-4483-9830-350043954a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hombre</value>
+      <webElementGuid>41326127-8553-47e3-8ae8-14f262aafc0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trBloquePasaporte&quot;)/td[1]/div[1]/table[1]/tbody[1]/tr[3]/td[1]/label[1]/label[@class=&quot;css-label cb0 radGroup1&quot;]</value>
+      <webElementGuid>69092394-95d8-4be1-91e0-3c364d275c50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='trBloquePasaporte']/td/div/table/tbody/tr[3]/td/label/label[2]</value>
+      <webElementGuid>8aabd690-16f6-4132-8f4a-c53ae3340605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sexo:'])[2]/following::label[1]</value>
+      <webElementGuid>b9a5bcee-91d5-4a87-81ba-58c3e6d4ad58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unión libre'])[3]/following::label[3]</value>
+      <webElementGuid>59407584-d7f8-4007-8814-dc8a941ed157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mujer'])[2]/preceding::label[1]</value>
+      <webElementGuid>d17f9341-5f54-44a0-b478-210349d37557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País de Nacimiento:'])[1]/preceding::label[2]</value>
+      <webElementGuid>d1cdfb91-c14b-40d5-a6e7-b248fedf58d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/label/label[2]</value>
+      <webElementGuid>e87f4a6e-0edc-4295-adf1-91dd93e8f588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Hombre' or . = 'Hombre')]</value>
+      <webElementGuid>f92430b9-e3d5-4249-9658-e2ef3b03cf70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

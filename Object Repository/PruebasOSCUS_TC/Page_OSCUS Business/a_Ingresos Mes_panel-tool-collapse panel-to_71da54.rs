@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ingresos Mes_panel-tool-collapse panel-to_71da54</name>
+   <tag></tag>
+   <elementGuidId>b41a3714-0ecb-4139-a9a6-172b470d0d6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.panel-tool-collapse.panel-tool-expand</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='divSituacionEconomica']/table[2]/tbody/tr[2]/td/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>14ef6b70-8f91-4f91-85d3-02115892b606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-tool-collapse panel-tool-expand</value>
+      <webElementGuid>f235498e-9aa2-4608-b0f2-993a5efa9589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>60f60d11-9a54-46ff-b01a-91870eb43bfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divSituacionEconomica&quot;)/table[2]/tbody[1]/tr[2]/td[1]/div[@class=&quot;panel datagrid&quot;]/div[@class=&quot;panel-header&quot;]/div[@class=&quot;panel-tool&quot;]/a[@class=&quot;panel-tool-collapse panel-tool-expand&quot;]</value>
+      <webElementGuid>4341eb40-d807-4379-a8ed-9e97fea9c09b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divSituacionEconomica']/table[2]/tbody/tr[2]/td/div/div/div[2]/a</value>
+      <webElementGuid>d064e264-6d9b-4f74-81aa-a3c88f93a6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[3]</value>
+      <webElementGuid>86f101c9-a7ec-4496-8fed-dafc4530bf6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div[2]/a</value>
+      <webElementGuid>0d292f86-3e04-4f40-a2af-1d0bd959141a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)']</value>
+      <webElementGuid>4cf8d6f8-b145-44bc-9f27-668a9a8f6dfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

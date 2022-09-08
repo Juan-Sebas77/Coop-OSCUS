@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_SITUACIN ECONMICA</name>
+   <tag></tag>
+   <elementGuidId>368eb656-af46-4d5f-9b98-af18d6db7b45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#h1SituacionEconomica</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='h1SituacionEconomica']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>048b9b08-4730-472d-a55c-3a7adf7ff4db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>h1SituacionEconomica</value>
+      <webElementGuid>adb5ccae-cdf5-4e85-9ef1-28314958dd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        SITUACIÓN ECONÓMICA
+                    </value>
+      <webElementGuid>5989ff00-f8ba-4ef0-a1f6-b609a74c7b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;h1SituacionEconomica&quot;)</value>
+      <webElementGuid>170808d9-d064-406b-b3d0-06968477ae80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='h1SituacionEconomica']</value>
+      <webElementGuid>b499f761-6634-4902-b6de-1f578e38b8b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lblSituacionEconomica']/h1</value>
+      <webElementGuid>2bf2c989-3e49-44fb-a419-3bbce4165c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asesor'])[2]/following::h1[1]</value>
+      <webElementGuid>5a573c2b-2745-45ef-b0ff-59545f26ec25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre'])[2]/following::h1[1]</value>
+      <webElementGuid>09b96cab-e16a-410c-a895-a3dd50830191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Es Primer trabajo:'])[1]/preceding::h1[1]</value>
+      <webElementGuid>3b35384f-8547-4a01-a8c7-59dd402b2cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='País Origen Ingresos:'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e60fb77b-0b30-4a75-a050-5c410f5f5db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SITUACIÓN ECONÓMICA']/parent::*</value>
+      <webElementGuid>f8b54789-c61e-4bd9-b17d-bf9a21e5cdf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/h1</value>
+      <webElementGuid>cab8a09e-a82a-4c94-9b58-6756130332f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'h1SituacionEconomica' and (text() = '
+                        SITUACIÓN ECONÓMICA
+                    ' or . = '
+                        SITUACIÓN ECONÓMICA
+                    ')]</value>
+      <webElementGuid>88e3f4e6-0280-449b-8bc3-b6e96e71b8ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

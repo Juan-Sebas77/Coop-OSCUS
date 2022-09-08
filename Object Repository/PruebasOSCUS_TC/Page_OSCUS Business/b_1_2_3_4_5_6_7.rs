@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_1_2_3_4_5_6_7</name>
+   <tag></tag>
+   <elementGuidId>1dc5244d-e455-4f4d-a377-eb92b242a45d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbProfesionSBS_chosen > a.chosen-single.chosen-default > div > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbProfesionSBS_chosen']/a/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>8257c200-017e-48f5-8982-c123bfc1e762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbProfesionSBS_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/div[1]/b[1]</value>
+      <webElementGuid>4c5d2858-6416-48dc-a48d-bd71a2a11a07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbProfesionSBS_chosen']/a/div/b</value>
+      <webElementGuid>9945b7a8-1f83-4965-a874-5e25c03240dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/div/a/div/b</value>
+      <webElementGuid>8f3d27c5-5827-4249-abfd-c14130c8d5ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

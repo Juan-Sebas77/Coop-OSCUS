@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_DISTRITO METROPOLITANO DE QUITO</name>
+   <tag></tag>
+   <elementGuidId>bdd2bdce-7acb-4296-b7ae-c8a4bae8644a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbCantonReside_chosen > div.chosen-drop > ul.chosen-results > li.active-result</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbCantonReside_chosen']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a362addd-9852-4d78-9d67-751a99558201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result</value>
+      <webElementGuid>eb04041a-045b-4458-9016-e8053596c506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>a78934a8-befc-4edf-8718-282705014e0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DISTRITO METROPOLITANO DE QUITO</value>
+      <webElementGuid>82949a9a-d4e8-4281-bdc7-54b58b154ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbCantonReside_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;active-result&quot;]</value>
+      <webElementGuid>e6cbdad2-5aad-4b34-be23-66728e424b7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbCantonReside_chosen']/div/ul/li</value>
+      <webElementGuid>8014bd3a-576b-4432-843f-b3cc428867ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISTRITO METROPOLITANO DE QUITO'])[2]/following::li[1]</value>
+      <webElementGuid>81172057-d125-414d-b4a2-441567152ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantón reside:'])[1]/following::li[1]</value>
+      <webElementGuid>28bd419b-ffbd-40dc-bb30-19ad8da830c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantón reside:'])[2]/preceding::li[1]</value>
+      <webElementGuid>131b52fa-1596-4249-a9c3-145556bfe104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='STRITO METROPOLITANO DE QUITO']/parent::*</value>
+      <webElementGuid>ed973b6e-8397-4bbf-ac45-3af1582675d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/div/div/ul/li</value>
+      <webElementGuid>99bc66f6-6dea-446a-935f-a0795a0f5f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'DISTRITO METROPOLITANO DE QUITO' or . = 'DISTRITO METROPOLITANO DE QUITO')]</value>
+      <webElementGuid>918e656d-dc63-491b-a745-c2548c7c02bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

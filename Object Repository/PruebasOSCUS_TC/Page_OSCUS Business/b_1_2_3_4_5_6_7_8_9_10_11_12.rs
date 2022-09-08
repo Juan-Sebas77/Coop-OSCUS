@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_1_2_3_4_5_6_7_8_9_10_11_12</name>
+   <tag></tag>
+   <elementGuidId>eacbac85-d047-44b0-8406-6065bebd73a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbPropositoRelacion_chosen > a.chosen-single.chosen-default > div > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbPropositoRelacion_chosen']/a/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>cdcfbc4f-f1c6-4893-af4b-d3adf6af4799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbPropositoRelacion_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/div[1]/b[1]</value>
+      <webElementGuid>1937f382-8c67-4a8a-b12a-280e183450f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbPropositoRelacion_chosen']/a/div/b</value>
+      <webElementGuid>2d0f4130-085d-4333-8103-3a54b1ddf9b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/table/tbody/tr/td/label/div/a/div/b</value>
+      <webElementGuid>e39c33e8-196a-44bb-bf02-fbeb09f6380b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

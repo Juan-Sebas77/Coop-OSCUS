@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vivienda</name>
+   <tag></tag>
+   <elementGuidId>d3527926-4a81-4f16-bae5-d038296436ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbTipoVivienda_chosen > a.chosen-single.chosen-default > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbTipoVivienda_chosen']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d670fffc-2605-413b-9662-46aa2835b439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vivienda...</value>
+      <webElementGuid>17a84de3-2212-4cc5-b0bf-eb82919a88f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbTipoVivienda_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/span[1]</value>
+      <webElementGuid>0c98e20a-f770-4e50-848a-bae2d20ed746</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbTipoVivienda_chosen']/a/span</value>
+      <webElementGuid>c7bfbb4c-3a48-43e4-97c4-7da7ec94ff8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo vivienda:'])[1]/following::span[1]</value>
+      <webElementGuid>459fc7b0-b6fe-4a0d-b2cd-99256c3d29ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parroquia reside:'])[2]/following::span[4]</value>
+      <webElementGuid>58b5f254-3bc0-4f22-9215-9bf4ee272003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Propia hipotecada'])[2]/preceding::span[1]</value>
+      <webElementGuid>b57c9086-2b84-4d6e-8871-82ad467a2d9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Propia no hipotecada'])[2]/preceding::span[1]</value>
+      <webElementGuid>b1decb6a-137b-47b0-86dd-81a89ed9baf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vivienda...']/parent::*</value>
+      <webElementGuid>0a518661-9f8b-4744-9f9b-477c015a0f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/label/div/a/span</value>
+      <webElementGuid>74d1c18c-120f-4100-8bb9-fdb1c35ed265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vivienda...' or . = 'Vivienda...')]</value>
+      <webElementGuid>3b659e1e-785a-4978-940c-7f31c1454be2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

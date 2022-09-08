@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Actividades de prestacin de una serie d_b8db33</name>
+   <tag></tag>
+   <elementGuidId>0c5a8597-6725-4b3c-88fd-796bbad64c74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbClasificacionActividad_chosen > div.chosen-drop</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbClasificacionActividad_chosen']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d32f08c5-2d8c-4d04-a752-090a9298ecd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-drop</value>
+      <webElementGuid>c358e88c-565b-4023-9c8e-b116bc77ae3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Actividades de prestación de una serie de servicios administrativos de oficina corrientes, como recepción, planificación financiera, facturación y registro, personal y distribución física (servicios de mensajería) y logística, a cambio de una retribución o por contrato.Servicios de apoyo de secretaría, transcripción de documentos y otros servicios de secretaría; escritura de cartas o historiales profesionales (currículum), preparación de documentos, edición de documentos y corrección de pruebas; actividades de mecanografía, procesamiento de texto y edición electrónica.Alquiler de apartados de correo y otras actividades relacionadas con el correo (excepto la publicidad directa por correo).Actividades de fotocopiado y realización de duplicados.Otros servicios de copia de documentos no acompañados de servicios de impresión, como los de impresión en Offset, impresión rápida, impresión digital o servicios de preparación para la prensa, y otros servicios especializados de oficina, diseño de procesos (cianotipia, blueprinting), etcétera.Actividades de centros que atienden a llamadas de clientes utilizando operadores humanos, sistemas de distribución automática de llamadas, sistemas informatizados de telefonía, sistemas interactivos de respuesta de voz o métodos similares para recibir pedidos, proporcionar información sobre productos, responder a solicitudes de asistencia de los clientes o atender reclamaciones (call - center).Actividades de centros que realizan llamadas, usando técnicas similares, para vender o promocionar bienes o servicios a clientes potenciales, realizar estudios de mercado o encuestas de opinión pública y actividades similares para los clientes.Organización, promoción y/o gestión de eventos como exposiciones comerciales o empresariales, convenciones, conferencias y reuniones, estén incluidas o no la gestión de esas instalaciones y la dotación de personal necesario para su funcionamiento.Actividades de cobro de cantidades adeudadas y entrega de esos fondos a los clientes, como servicios de cobro de deudas o facturas.Actividades de recopilación de información, como historiales de crédito y de empleo de personas e historiales de crédito de empresas, y suministro de esa información a instituciones financieras, empresas de venta al por menor y otras entidades que necesitan poder evaluar la solvencia de esas personas y empresas.Actividades de envasado y empaquetado a cambio de una retribución o por contrato, con intervención o no de procesos automatizados: embotellado de líquidos, incluidos alimentos y bebidas, envasado o empaquetado de sólidos (embalaje con plástico de burbujas, recubrimiento con papel aluminio, etcétera).Actividades de etiquetado, estampado e impresión.Otras actividades de envasado y empaquetado: actividades de empaquetado de envíos y envoltura de regalos.Actividades de elaboración de actas textuales y registro en taquigrafía (estenotipia) de procedimientos jurídicos en directo y transcripción de los materiales correspondientes, como: servicios de redacción de actas judiciales o de registro en estenotipia, servicios públicos de estenografía.Actividades de subtitulado simultáneo para sordos en tiempo real de retransmisiones en directo por televisión, reuniones, conferencias, etcétera.Servicios de organización de la recaudación de fondos a cambio de una retribución o por contrata, servicios de recuperación.Otras actividades de apoyo que se proporcionan habitualmente a las empresas y que no clasifican en otra parte: servicio de recogida de monedas de parquímetros, servicios de anillados y plastificados, preclasificación de correo, impresión de código de barras, codificación de la barra de dirección, programas de fidelización, subasta por cuenta propia, etcétera.</value>
+      <webElementGuid>cc5e8e5e-200b-4bbe-9d39-754c71f75ead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbClasificacionActividad_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]</value>
+      <webElementGuid>c31d2c51-b292-4fbf-81ec-5ff31928c8f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbClasificacionActividad_chosen']/div</value>
+      <webElementGuid>ad233fea-326e-432e-92dc-427b03414a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actividad...'])[1]/following::div[2]</value>
+      <webElementGuid>8ba41806-7d60-4132-8fc1-147121c7a453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clasificación actividad:'])[1]/following::div[3]</value>
+      <webElementGuid>f4b7f83e-3f21-4a1b-8b3e-191293389640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/table/tbody/tr[4]/td/div/label/div/div</value>
+      <webElementGuid>1800cd5b-bb07-4453-b6d2-00c998a032a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Actividades de prestación de una serie de servicios administrativos de oficina corrientes, como recepción, planificación financiera, facturación y registro, personal y distribución física (servicios de mensajería) y logística, a cambio de una retribución o por contrato.Servicios de apoyo de secretaría, transcripción de documentos y otros servicios de secretaría; escritura de cartas o historiales profesionales (currículum), preparación de documentos, edición de documentos y corrección de pruebas; actividades de mecanografía, procesamiento de texto y edición electrónica.Alquiler de apartados de correo y otras actividades relacionadas con el correo (excepto la publicidad directa por correo).Actividades de fotocopiado y realización de duplicados.Otros servicios de copia de documentos no acompañados de servicios de impresión, como los de impresión en Offset, impresión rápida, impresión digital o servicios de preparación para la prensa, y otros servicios especializados de oficina, diseño de procesos (cianotipia, blueprinting), etcétera.Actividades de centros que atienden a llamadas de clientes utilizando operadores humanos, sistemas de distribución automática de llamadas, sistemas informatizados de telefonía, sistemas interactivos de respuesta de voz o métodos similares para recibir pedidos, proporcionar información sobre productos, responder a solicitudes de asistencia de los clientes o atender reclamaciones (call - center).Actividades de centros que realizan llamadas, usando técnicas similares, para vender o promocionar bienes o servicios a clientes potenciales, realizar estudios de mercado o encuestas de opinión pública y actividades similares para los clientes.Organización, promoción y/o gestión de eventos como exposiciones comerciales o empresariales, convenciones, conferencias y reuniones, estén incluidas o no la gestión de esas instalaciones y la dotación de personal necesario para su funcionamiento.Actividades de cobro de cantidades adeudadas y entrega de esos fondos a los clientes, como servicios de cobro de deudas o facturas.Actividades de recopilación de información, como historiales de crédito y de empleo de personas e historiales de crédito de empresas, y suministro de esa información a instituciones financieras, empresas de venta al por menor y otras entidades que necesitan poder evaluar la solvencia de esas personas y empresas.Actividades de envasado y empaquetado a cambio de una retribución o por contrato, con intervención o no de procesos automatizados: embotellado de líquidos, incluidos alimentos y bebidas, envasado o empaquetado de sólidos (embalaje con plástico de burbujas, recubrimiento con papel aluminio, etcétera).Actividades de etiquetado, estampado e impresión.Otras actividades de envasado y empaquetado: actividades de empaquetado de envíos y envoltura de regalos.Actividades de elaboración de actas textuales y registro en taquigrafía (estenotipia) de procedimientos jurídicos en directo y transcripción de los materiales correspondientes, como: servicios de redacción de actas judiciales o de registro en estenotipia, servicios públicos de estenografía.Actividades de subtitulado simultáneo para sordos en tiempo real de retransmisiones en directo por televisión, reuniones, conferencias, etcétera.Servicios de organización de la recaudación de fondos a cambio de una retribución o por contrata, servicios de recuperación.Otras actividades de apoyo que se proporcionan habitualmente a las empresas y que no clasifican en otra parte: servicio de recogida de monedas de parquímetros, servicios de anillados y plastificados, preclasificación de correo, impresión de código de barras, codificación de la barra de dirección, programas de fidelización, subasta por cuenta propia, etcétera.' or . = 'Actividades de prestación de una serie de servicios administrativos de oficina corrientes, como recepción, planificación financiera, facturación y registro, personal y distribución física (servicios de mensajería) y logística, a cambio de una retribución o por contrato.Servicios de apoyo de secretaría, transcripción de documentos y otros servicios de secretaría; escritura de cartas o historiales profesionales (currículum), preparación de documentos, edición de documentos y corrección de pruebas; actividades de mecanografía, procesamiento de texto y edición electrónica.Alquiler de apartados de correo y otras actividades relacionadas con el correo (excepto la publicidad directa por correo).Actividades de fotocopiado y realización de duplicados.Otros servicios de copia de documentos no acompañados de servicios de impresión, como los de impresión en Offset, impresión rápida, impresión digital o servicios de preparación para la prensa, y otros servicios especializados de oficina, diseño de procesos (cianotipia, blueprinting), etcétera.Actividades de centros que atienden a llamadas de clientes utilizando operadores humanos, sistemas de distribución automática de llamadas, sistemas informatizados de telefonía, sistemas interactivos de respuesta de voz o métodos similares para recibir pedidos, proporcionar información sobre productos, responder a solicitudes de asistencia de los clientes o atender reclamaciones (call - center).Actividades de centros que realizan llamadas, usando técnicas similares, para vender o promocionar bienes o servicios a clientes potenciales, realizar estudios de mercado o encuestas de opinión pública y actividades similares para los clientes.Organización, promoción y/o gestión de eventos como exposiciones comerciales o empresariales, convenciones, conferencias y reuniones, estén incluidas o no la gestión de esas instalaciones y la dotación de personal necesario para su funcionamiento.Actividades de cobro de cantidades adeudadas y entrega de esos fondos a los clientes, como servicios de cobro de deudas o facturas.Actividades de recopilación de información, como historiales de crédito y de empleo de personas e historiales de crédito de empresas, y suministro de esa información a instituciones financieras, empresas de venta al por menor y otras entidades que necesitan poder evaluar la solvencia de esas personas y empresas.Actividades de envasado y empaquetado a cambio de una retribución o por contrato, con intervención o no de procesos automatizados: embotellado de líquidos, incluidos alimentos y bebidas, envasado o empaquetado de sólidos (embalaje con plástico de burbujas, recubrimiento con papel aluminio, etcétera).Actividades de etiquetado, estampado e impresión.Otras actividades de envasado y empaquetado: actividades de empaquetado de envíos y envoltura de regalos.Actividades de elaboración de actas textuales y registro en taquigrafía (estenotipia) de procedimientos jurídicos en directo y transcripción de los materiales correspondientes, como: servicios de redacción de actas judiciales o de registro en estenotipia, servicios públicos de estenografía.Actividades de subtitulado simultáneo para sordos en tiempo real de retransmisiones en directo por televisión, reuniones, conferencias, etcétera.Servicios de organización de la recaudación de fondos a cambio de una retribución o por contrata, servicios de recuperación.Otras actividades de apoyo que se proporcionan habitualmente a las empresas y que no clasifican en otra parte: servicio de recogida de monedas de parquímetros, servicios de anillados y plastificados, preclasificación de correo, impresión de código de barras, codificación de la barra de dirección, programas de fidelización, subasta por cuenta propia, etcétera.')]</value>
+      <webElementGuid>a7603c6e-44d4-40d1-80ea-095f103f9205</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

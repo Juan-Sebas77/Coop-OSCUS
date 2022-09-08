@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_1_2_3_4_5</name>
+   <tag></tag>
+   <elementGuidId>0e7860ff-e053-47ce-a96a-2a885035a24d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbParroquiaReside_chosen > a.chosen-single.chosen-default > div > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbParroquiaReside_chosen']/a/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>b8146279-5346-4720-8565-9b7ff60d3b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbParroquiaReside_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/div[1]/b[1]</value>
+      <webElementGuid>f5c12eeb-b981-47cb-b3d8-7d2fb62bb716</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbParroquiaReside_chosen']/a/div/b</value>
+      <webElementGuid>578920a5-275c-443b-9cc3-2e4f3d60333b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/label/div/a/div/b</value>
+      <webElementGuid>3f5c2cc2-b184-44a5-bc92-82808fdeeebc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

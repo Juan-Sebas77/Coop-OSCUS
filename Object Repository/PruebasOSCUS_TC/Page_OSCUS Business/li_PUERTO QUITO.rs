@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_PUERTO QUITO</name>
+   <tag></tag>
+   <elementGuidId>2a3d7a7a-df5f-4e29-afbc-43659d85fbdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbParroquiaReside_chosen > div.chosen-drop > ul.chosen-results > li.active-result</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbParroquiaReside_chosen']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3bbb3526-a370-4a6e-9349-e4b6909a9a6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result</value>
+      <webElementGuid>1cfe87b0-a9dd-458a-b765-a3440b982306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>54</value>
+      <webElementGuid>359f34fc-e7e9-4700-803f-43fff044ec84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PUERTO QUITO</value>
+      <webElementGuid>474271ff-fa1c-4e42-9bcd-ca59bd3f0950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbParroquiaReside_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;active-result&quot;]</value>
+      <webElementGuid>625fad80-8fa6-40df-86e3-af1e320d6a16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbParroquiaReside_chosen']/div/ul/li</value>
+      <webElementGuid>29c6c77c-cbaa-4d53-85e3-cd247999ecc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PUERTO QUITO'])[3]/following::li[1]</value>
+      <webElementGuid>670374a5-42c9-4f81-9ad7-dc36da44f6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parroquia reside:'])[1]/following::li[1]</value>
+      <webElementGuid>e7da4a28-2906-406f-ba3b-db275ad066ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Parroquia reside:'])[2]/preceding::li[1]</value>
+      <webElementGuid>1fa47704-b5f4-4848-b659-eb75481ca404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TO QUITO']/parent::*</value>
+      <webElementGuid>905f058f-e301-4ac8-af3d-b2c4ce155aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/label/div/div/ul/li</value>
+      <webElementGuid>891715ef-712e-4da8-b2f6-e454c9ebd406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'PUERTO QUITO' or . = 'PUERTO QUITO')]</value>
+      <webElementGuid>655b74c6-d2d2-43f8-aca2-37cbf9a30707</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

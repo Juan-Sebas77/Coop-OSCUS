@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_1_2</name>
+   <tag></tag>
+   <elementGuidId>44b29c9f-6b24-403b-b138-f26a175e3dbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbGrupoEtnico_chosen > a.chosen-single.chosen-default > div > b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbGrupoEtnico_chosen']/a/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>639b430a-81a8-4ff6-97bb-00171fd0c93f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbGrupoEtnico_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/div[1]/b[1]</value>
+      <webElementGuid>0ad7ef84-8d5a-4e18-ab21-2d9c03faf6b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbGrupoEtnico_chosen']/a/div/b</value>
+      <webElementGuid>64169362-447e-4f61-8269-327ede6eefd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[4]/div/a/div/b</value>
+      <webElementGuid>a2135c46-6d27-4c16-8098-f4165ba26c59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

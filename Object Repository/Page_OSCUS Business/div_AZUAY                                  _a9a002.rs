@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_AZUAY                                  _a9a002</name>
+   <tag></tag>
+   <elementGuidId>ae75b72b-167c-492d-8d0d-d851cf2acc31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbProvinciaReside_chosen > div.chosen-drop</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbProvinciaReside_chosen']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b40263b-20c0-4282-9428-7f14ce17b8cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-drop</value>
+      <webElementGuid>c7a9013e-4804-44de-88b3-05eaf6a876a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AZUAY                                             BOLIVAR                                           CAÑAR                                             CARCHI                                            CHIMBORAZO                                        COTOPAXI                                          EL ORO                                            ESMERALDAS                                        GALAPAGOS                                         GUAYAS                                            IMBABURA                                          LOJA                                              LOS RIOS                                          MANABI                                            MORONA SANTIAGO                                   NAPO                                              ORELLANA                                          PASTAZA                                           PICHINCHA                                         SANTA ELENA                                       SANTO DOMINGO DE LOS TSACHILAS                    SUCUMBIOS                                         TUNGURAHUA                                        ZAMORA CHINCHIPE                                  </value>
+      <webElementGuid>4dcd244a-5659-4686-9cc5-70a1093ff9a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbProvinciaReside_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]</value>
+      <webElementGuid>16be9235-fbfe-4b4a-9007-335dad40b249</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbProvinciaReside_chosen']/div</value>
+      <webElementGuid>759c6772-4eec-4ef3-ad7b-ef31eafdff39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provincia...'])[1]/following::div[2]</value>
+      <webElementGuid>9fd3ecd2-f629-45b4-ad68-70ed93c7892e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provincia reside:'])[1]/following::div[3]</value>
+      <webElementGuid>e479308b-3fca-42c2-9e69-3dc73e24ff3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/label/div/div</value>
+      <webElementGuid>4025e080-65dd-4c66-943f-eeebc3a7c627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AZUAY                                             BOLIVAR                                           CAÑAR                                             CARCHI                                            CHIMBORAZO                                        COTOPAXI                                          EL ORO                                            ESMERALDAS                                        GALAPAGOS                                         GUAYAS                                            IMBABURA                                          LOJA                                              LOS RIOS                                          MANABI                                            MORONA SANTIAGO                                   NAPO                                              ORELLANA                                          PASTAZA                                           PICHINCHA                                         SANTA ELENA                                       SANTO DOMINGO DE LOS TSACHILAS                    SUCUMBIOS                                         TUNGURAHUA                                        ZAMORA CHINCHIPE                                  ' or . = 'AZUAY                                             BOLIVAR                                           CAÑAR                                             CARCHI                                            CHIMBORAZO                                        COTOPAXI                                          EL ORO                                            ESMERALDAS                                        GALAPAGOS                                         GUAYAS                                            IMBABURA                                          LOJA                                              LOS RIOS                                          MANABI                                            MORONA SANTIAGO                                   NAPO                                              ORELLANA                                          PASTAZA                                           PICHINCHA                                         SANTA ELENA                                       SANTO DOMINGO DE LOS TSACHILAS                    SUCUMBIOS                                         TUNGURAHUA                                        ZAMORA CHINCHIPE                                  ')]</value>
+      <webElementGuid>220f50e4-ca13-4ae5-8b37-d4385125e833</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

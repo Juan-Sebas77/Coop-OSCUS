@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cantn_chosen-search</name>
+   <tag></tag>
+   <elementGuidId>c5d53e64-403e-4f5f-bc51-1bafecf1b9d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbCantonReside_chosen']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cbCantonReside_chosen > div.chosen-drop > div.chosen-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d2d88db5-ad00-4efe-a547-ea99a828725c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-search</value>
+      <webElementGuid>17e97b85-be7e-49fc-9fb1-9f83af06cc6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbCantonReside_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/div[@class=&quot;chosen-search&quot;]</value>
+      <webElementGuid>e1aa39c0-6432-4ee9-aa3f-8012c18e54d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbCantonReside_chosen']/div/div</value>
+      <webElementGuid>d4e2577a-c0ef-4682-9c82-747657519fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantón...'])[1]/following::div[3]</value>
+      <webElementGuid>fcdfa87e-b0ac-422d-aa89-095ea260ef6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantón reside:'])[1]/following::div[4]</value>
+      <webElementGuid>e6145e8b-7f8c-4744-af98-85af9b84b3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAYAMBE'])[2]/preceding::div[1]</value>
+      <webElementGuid>7ab2e646-b213-4953-befc-e65cf25cd92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISTRITO METROPOLITANO DE QUITO'])[2]/preceding::div[1]</value>
+      <webElementGuid>bba51bad-3b06-4e01-bc69-8ca822b5b4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/div/div/div</value>
+      <webElementGuid>5fd88746-4991-43c9-bbf8-38b705fb090f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

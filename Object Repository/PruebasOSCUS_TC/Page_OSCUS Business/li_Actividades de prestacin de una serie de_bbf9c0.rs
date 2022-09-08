@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Actividades de prestacin de una serie de_bbf9c0</name>
+   <tag></tag>
+   <elementGuidId>e035b511-786e-42a5-81f1-20ad4f809047</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbClasificacionActividad_chosen > div.chosen-drop > ul.chosen-results > li.active-result</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbClasificacionActividad_chosen']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e0f38e52-48f5-4035-ae26-7aa4863ad127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result</value>
+      <webElementGuid>d7c9d2c3-7a43-4b0a-a791-8df2f538dcdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>ea18a676-28e3-4f2f-a9c6-6c213b48dd36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Actividades de prestación de una serie de servicios administrativos de oficina corrientes, como recepción, planificación financiera, facturación y registro, personal y distribución física (servicios de mensajería) y logística, a cambio de una retribución o por contrato.</value>
+      <webElementGuid>3612c6e4-1159-4aea-a249-dd9c8d3986b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbClasificacionActividad_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;active-result&quot;]</value>
+      <webElementGuid>c6087c61-8a30-4145-a872-d1eb43cde5b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbClasificacionActividad_chosen']/div/ul/li</value>
+      <webElementGuid>4da43692-4cd5-4d34-9798-b9d9943adb8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clasificación actividad:'])[1]/following::li[1]</value>
+      <webElementGuid>03760c2e-b449-4df9-97ed-c8c3e42d5ccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupo económico:'])[2]/following::li[1]</value>
+      <webElementGuid>bd54ff1b-4151-47d7-b991-6cb346dc2d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actividades de fotocopiado y realización de duplicados.'])[2]/preceding::li[3]</value>
+      <webElementGuid>8944f7c6-30f5-4712-8d19-9acec82f4132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actividades de etiquetado, estampado e impresión.'])[2]/preceding::li[11]</value>
+      <webElementGuid>4971a976-76d5-44f0-ae95-e0d3b1243072</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/div/label/div/div/ul/li</value>
+      <webElementGuid>25b07106-7084-4a20-9bc3-78c3d9bee8b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Actividades de prestación de una serie de servicios administrativos de oficina corrientes, como recepción, planificación financiera, facturación y registro, personal y distribución física (servicios de mensajería) y logística, a cambio de una retribución o por contrato.' or . = 'Actividades de prestación de una serie de servicios administrativos de oficina corrientes, como recepción, planificación financiera, facturación y registro, personal y distribución física (servicios de mensajería) y logística, a cambio de una retribución o por contrato.')]</value>
+      <webElementGuid>4e5e7979-3ff5-4410-8b01-9e93b979ea5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Ingeniera y Ciencias exactas</name>
+   <tag></tag>
+   <elementGuidId>9e48ba0a-746b-4d7e-b373-e9c7e6bea316</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbProfesionSBS_chosen > div.chosen-drop > ul.chosen-results > li.active-result</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbProfesionSBS_chosen']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b8963538-0dcd-4b8e-b572-d2d758027bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result</value>
+      <webElementGuid>b57fb129-3f38-499d-9699-73f971011d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>64457b95-3c54-4de5-9949-fcd2518e4288</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ingeniería y Ciencias exactas</value>
+      <webElementGuid>8a2ecd1f-b6a4-4f20-a985-c5074ab1c1ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbProfesionSBS_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;active-result&quot;]</value>
+      <webElementGuid>f5ac61cc-6ba2-4bfa-8dba-7d98584fde1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbProfesionSBS_chosen']/div/ul/li</value>
+      <webElementGuid>62f2580d-7ab7-4b41-b6fa-2d8bfa18df32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingeniería y Ciencias exactas'])[2]/following::li[1]</value>
+      <webElementGuid>43d12a1b-8e17-4171-8c62-03dc0fcfa5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profesión SBS:'])[1]/following::li[1]</value>
+      <webElementGuid>f6321604-3504-440e-b700-c52a007be99e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ocupación:'])[1]/preceding::li[1]</value>
+      <webElementGuid>64698d5e-8459-4091-95a1-ad1edda07459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='niería y Ciencias exactas']/parent::*</value>
+      <webElementGuid>a9f36be1-7831-43ff-b8d1-ea318d3a278f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/div/div/ul/li</value>
+      <webElementGuid>d86300b2-2016-4bf6-a9df-418cef6b4e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Ingeniería y Ciencias exactas' or . = 'Ingeniería y Ciencias exactas')]</value>
+      <webElementGuid>b241430e-96ec-4265-9144-1496c8ce59f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

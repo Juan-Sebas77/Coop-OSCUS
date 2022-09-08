@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Arquitectos y afinesCiencias Administra_256785</name>
+   <tag></tag>
+   <elementGuidId>9c98b95c-710b-4ddd-a99f-8cdbf2de0844</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cbProfesionSBS_chosen > div.chosen-drop</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbProfesionSBS_chosen']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3d9ce2d-8af7-42ff-8556-0cb4eb7698a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-drop</value>
+      <webElementGuid>e7ead4b5-70ec-4faf-9fe2-c8d13b20c1c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Arquitectos y afinesCiencias Administrativas y EconómicasCiencias de la educaciónCiencias socialesDerechoIngeniería y Ciencias exactasMédicos, Biólogos, Veterinarios y otros profesionales de la saludPeriodistasPolicías, militares (fuerza pública)</value>
+      <webElementGuid>5dcb2c1c-1d5f-450f-8985-de809304146f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbProfesionSBS_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]</value>
+      <webElementGuid>2463bac9-b6da-4c6b-ab0a-c9c7164e1449</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbProfesionSBS_chosen']/div</value>
+      <webElementGuid>5e004191-39ef-47f1-9c65-600469c05861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profesión...'])[1]/following::div[2]</value>
+      <webElementGuid>d286427c-e966-4b9d-b473-13c595a8e71e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profesión SBS:'])[1]/following::div[3]</value>
+      <webElementGuid>d9651596-7a83-4b91-b54e-e1729e46f224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/div/div</value>
+      <webElementGuid>d9e97fbb-46c4-4b5f-bc07-7774e48527c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Arquitectos y afinesCiencias Administrativas y EconómicasCiencias de la educaciónCiencias socialesDerechoIngeniería y Ciencias exactasMédicos, Biólogos, Veterinarios y otros profesionales de la saludPeriodistasPolicías, militares (fuerza pública)' or . = 'Arquitectos y afinesCiencias Administrativas y EconómicasCiencias de la educaciónCiencias socialesDerechoIngeniería y Ciencias exactasMédicos, Biólogos, Veterinarios y otros profesionales de la saludPeriodistasPolicías, militares (fuerza pública)')]</value>
+      <webElementGuid>4eee7678-c17f-4ae9-9b08-30c33da1851b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

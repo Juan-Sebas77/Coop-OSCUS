@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Grupo</name>
+   <tag></tag>
+   <elementGuidId>75a6d409-e838-4867-af11-4460a049befe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbGrupoEconomico_chosen']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cbGrupoEconomico_chosen > a.chosen-single.chosen-default > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8646a064-74e6-448c-a7f7-20c47b6aec50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grupo...</value>
+      <webElementGuid>d835406c-4cf6-4464-bcc0-3b040f3e5bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbGrupoEconomico_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/span[1]</value>
+      <webElementGuid>97fcb527-a85d-4e27-8952-0b715648b71b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbGrupoEconomico_chosen']/a/span</value>
+      <webElementGuid>0bdbdc7c-10f3-4019-add3-35c5e341bd68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupo económico:'])[1]/following::span[1]</value>
+      <webElementGuid>70601048-d7ae-4b0a-b19c-47f872623bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ninguno'])[2]/following::span[1]</value>
+      <webElementGuid>11455add-87e7-40df-a853-455755cbb7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVIDADES ADMINISTRATIVAS Y DE APOYO DE OFICINA Y OTRAS ACTIVIDADES DE APOYO A LAS EMPRESAS.'])[2]/preceding::span[1]</value>
+      <webElementGuid>d04b7fc4-725d-48ff-bd72-433e5aff3e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVIDADES AUXILIARES DE LAS ACTIVIDADES DE SERVICIOS FINANCIEROS.'])[2]/preceding::span[1]</value>
+      <webElementGuid>84e5f96f-8fad-41b0-9276-29ebba8a69d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Grupo...']/parent::*</value>
+      <webElementGuid>c5a59d73-b4c1-471f-9b4c-beca15b8a9ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/table/tbody/tr[3]/td/div/label/div/a/span</value>
+      <webElementGuid>3f504421-07f2-48e7-aa37-ed182624191b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Grupo...' or . = 'Grupo...')]</value>
+      <webElementGuid>1365d370-4870-4e24-b217-1910b8407d97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

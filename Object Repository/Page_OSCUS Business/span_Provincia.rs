@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Provincia</name>
+   <tag></tag>
+   <elementGuidId>21f06264-006e-436c-b56c-c3864ba2db73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbProvinciaReside_chosen']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cbProvinciaReside_chosen > a.chosen-single.chosen-default > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b90b7727-9642-4ff3-b875-559facf1d896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Provincia...</value>
+      <webElementGuid>e3dcc320-5e7d-4d19-8731-067904963dbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbProvinciaReside_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/span[1]</value>
+      <webElementGuid>3d13662c-e1de-47ce-a129-48da82cd59e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbProvinciaReside_chosen']/a/span</value>
+      <webElementGuid>b4a79cdf-3593-488b-9826-81127f4a7646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provincia reside:'])[1]/following::span[1]</value>
+      <webElementGuid>2e794bcc-21df-4d3f-922d-b7e54a90810e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nacionalidad Americana:'])[1]/following::span[1]</value>
+      <webElementGuid>dc7ab4da-deae-4312-b1ec-1e15411cb0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AZUAY'])[2]/preceding::span[1]</value>
+      <webElementGuid>d8be3eb9-baf3-4d92-b376-bf100f77a426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BOLIVAR'])[2]/preceding::span[1]</value>
+      <webElementGuid>67bef087-dc0c-4330-9e99-c0b5ef3c1eb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Provincia...']/parent::*</value>
+      <webElementGuid>bbbec77a-91c7-41f6-beb4-7f706836abc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/label/div/a/span</value>
+      <webElementGuid>155bcce6-2695-4db9-8721-c13d2b5dc264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Provincia...' or . = 'Provincia...')]</value>
+      <webElementGuid>08da051b-95a7-423f-a85c-037c4d1a8b6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15</name>
+   <tag></tag>
+   <elementGuidId>0d4bc37c-1e6b-49d7-9590-1e71f04bcd4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbPropositoRelacion_chosen']/a/div/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cbPropositoRelacion_chosen > a.chosen-single.chosen-default > div > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>dab7fb8d-d2a7-40a4-a489-74ee98fc3d82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbPropositoRelacion_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/div[1]/b[1]</value>
+      <webElementGuid>09ee7b07-3f49-4992-8049-09daecb911df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>537d85d8-a64a-4069-ab66-f2da3467dd3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbPropositoRelacion_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/div[1]/b[1]</value>
+      <webElementGuid>42e8854f-a0b1-4998-8844-01579d17d0ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbPropositoRelacion_chosen']/a/div/b</value>
+      <webElementGuid>a808668c-39a9-483b-8b5b-f39dfbb34b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/table/tbody/tr/td/label/div/a/div/b</value>
+      <webElementGuid>1eddf63f-cfbc-4289-84ba-cab02874e840</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
