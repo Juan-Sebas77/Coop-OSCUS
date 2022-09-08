@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Ejemplo</name>
+   <name>InicioDeSesion</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>246b6d0b-b237-4d32-9859-997b11afbe95</testCaseGuid>
+   <testCaseGuid>1d4be5a3-f107-4854-a84a-e74ea955d8f7</testCaseGuid>
 </TestCaseEntity>

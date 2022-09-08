@@ -6,6 +6,7 @@
    <UUID>cd21b275-443d-447a-8ac2-b0de86686846</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\juan-\Katalon Studio\Ejemplo\Ejemplo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

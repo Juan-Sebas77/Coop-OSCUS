@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transaccion_NuevosClientesNaturales</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba5c54dd-b970-42d7-b979-3423eb9e2d04</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>321d8cc0-716b-48c6-9b5a-4b0b11b942d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fae57a1-8b1d-4c00-84d9-5095eec63df1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3012b85-1efc-47c6-93d7-55d37900709c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>321d8cc0-716b-48c6-9b5a-4b0b11b942d3</id>
+      <masked>false</masked>
+      <name>Documento</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4fae57a1-8b1d-4c00-84d9-5095eec63df1</id>
+      <masked>false</masked>
+      <name>Apellido</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3012b85-1efc-47c6-93d7-55d37900709c</id>
+      <masked>false</masked>
+      <name>Nombre</name>
+   </variable>
+</TestCaseEntity>

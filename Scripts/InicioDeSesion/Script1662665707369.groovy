@@ -21,27 +21,17 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://srvsoftde.oscus.int/oscus.aplicacion')
 
+WebUI.waitForPageLoad(20)
+
+WebUI.maximizeWindow()
+
+WebUI.waitForElementPresent(findTestObject('ObjXpath/AccederATuCuenta'), 20)
+
 WebUI.setText(findTestObject('Object Repository/Page_Inicia sesin en Oscus QA/input_Usuario_username'), 'csantamaria')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Inicia sesin en Oscus QA/input_Contrasea_password'), 'pFvlI3x3p6lG056Re0KmbA==')
 
 WebUI.click(findTestObject('Object Repository/Page_Inicia sesin en Oscus QA/input_Contrasea_login'))
 
-WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/img_Num. Cliente_imgNuevoClienteNatural'))
-
-WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/b'))
-
-WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/li_Pasaporte'))
-
-WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/h1_DIRECCIN'))
-
-WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/b_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/ul_AZUAY                                   _249295'))
-
-WebUI.setText(findTestObject('Object Repository/Page_OSCUS Business/input'), 'Pichincha')
-
-WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/em_PICHINCHA'))
-
-WebUI.closeBrowser()
+WebUI.waitForPageLoad(10)
 
