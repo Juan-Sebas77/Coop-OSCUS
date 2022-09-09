@@ -54,7 +54,7 @@ WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/b_1_2'))
 
 WebUI.setText(findTestObject('Object Repository/Page_OSCUS Business/input'), 'Ecuador')
 
-WebUI.takeScreenshot('C://Users//juan-//Katalon Studio//Ejemplo//ScreenShot//Datos.png')
+WebUI.takeScreenshot()
 
 WebUI.scrollToPosition(0, 200)
 
@@ -97,7 +97,7 @@ WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/b_1_2_3_4_5_6_
 
 WebUI.click(findTestObject('Object Repository/Page_OSCUS Business/li_Propia no hipotecada'))
 
-WebUI.takeScreenshot('C://Users//juan-//Katalon Studio//Ejemplo//ScreenShot//Direccion.png')
+WebUI.takeScreenshot()
 
 //Ocupación
 WebUI.scrollToElement(findTestObject('Object Repository/ObjXpath/Pestana_Ocupacion'), 5)
@@ -135,7 +135,7 @@ WebUI.setText(findTestObject('Object Repository/Page_OSCUS Business/input_Cantn_
 
 WebUI.scrollToElement(findTestObject('Object Repository/ObjXpath/Pestana_direccion'), 5)
 
-WebUI.takeScreenshot('C://Users//juan-//Katalon Studio//Ejemplo//ScreenShot//Ocupacion.png')
+WebUI.takeScreenshot()
 
 //Situación Económica
 WebUI.click(findTestObject('Object Repository/ObjXpath/Pestana_SituacionEconomica'))
