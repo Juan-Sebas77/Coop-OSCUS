@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Ejemplo</name>
+   <name>POC</name>
    <tag></tag>
    <UUID>cd21b275-443d-447a-8ac2-b0de86686846</UUID>
    <migratedVersion>5.9.0</migratedVersion>
